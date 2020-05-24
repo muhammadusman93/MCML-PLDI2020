@@ -57,10 +57,12 @@ presented at end of document.
 - matplotlib
 
 You can install one using pip package manager, e.g.:
-    - pip3 install pydotplus numpy sklearn matplotlib
-	- Download projMC executable file from http://www.cril.univ-artois.fr/kc/projmc.html
-	  Keep the downloaded file inside modelcounter directory.
-      Run sudo chmod +x modelcounter/projMC_linux to give execution permissions to model counter.
+   - pip3 install pydotplus numpy sklearn matplotlib
+    
+Download projMC executable file from http://www.cril.univ-artois.fr/kc/projmc.html
+   - Keep the downloaded file inside modelcounter directory. 
+   - Run sudo chmod +x modelcounter/projMC_linux to give execution permissions to model counter.
+
 Note:
 All commands should be run inside artifact directory.
 
